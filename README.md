@@ -167,20 +167,23 @@ Tu peux y accéder à partir du dernier onglet "Mon profil", en appuyant sur ⚙
     <img src="./pictures/calendar.jpg" style="width: 300px; justify-self: center;"/>
     <img src="./pictures/context-break.jpg" style="width: 300px; justify-self: center;"/>
 </div>
-<br/><br/>Dans cet exemple, on va prendre une pause le 3 octobre : on fait un appui long sur la date concernée. Un menu s'affiche avec plusieurs options, on pourra alors choisir de :
 
-## Prendre une pause
-
-<div style='display: flex; justify-content: left; flex-direction: row;'>
-    <img src="./pictures/take-break.jpg" style="width: 300px; justify-self: center;"/>
-</div>
-
-## Modifier ses objectifs
-
-<div style='display: flex; justify-content: left; flex-direction: row;'>
-    <img src="./pictures/override-settings.jpg" style="width: 300px; justify-self: center;"/>
-</div>
-<br/><br/>
+> Dans cet exemple, on va prendre une pause le 3 octobre : on fait un appui long sur la date concernée. Un menu s'affiche avec plusieurs options, on pourra alors choisir de :
+><div style='display:flex; flex-direction: row; justify-content: space-evenly; align-content: center'>
+>    <div>
+>        <h1>Prendre une pause</h1>
+>        <div style='display: flex; justify-content: left; flex-direction: row;'>
+>            <img src="./pictures/take-break.jpg" style="width: 300px; justify-self: center;"/>
+>        </div>
+>    </div>
+>    <div>
+>        <h1>Modifier ses objectifs</h1>
+>        <div style='display: flex; justify-content: left; flex-direction: row;'>
+>            <img src="./pictures/override-settings.jpg" style="width: 300px; justify-self: center;"/>
+>        </div>
+>   </div>
+>   <br/><br/>
+></div>
 
 # Trouver ses paramètres idéaux
 
@@ -189,6 +192,7 @@ Tu peux y accéder à partir du dernier onglet "Mon profil", en appuyant sur ⚙
 <div style='display: flex; justify-content: center; flex-direction: row;'>
     <img src="./pictures/simulation.jpg" style="width: 300px; justify-self: center;"/>
 </div>
+
 <br/>Maintenant, comment l'interpréter ? Cette courbe représente le nombre de pages en retard par rapport à ce que l'algorithme de répétition espacée a calculé. Attention, avoir du retard n'est pas dramatique, tu en auras forcément en lançant une simulation ! Etant donné que Stude limite le nombre de pages par jour en fonction de tes capacités, certains chapitres seront reportés au lendemain sans que tu ne t'en rendes compte, et ça, c'est du retard techniquement parlant ;)
 
 ><br/>Ce qu'il faut évaluer n'est pas la quantité de retard, mais <b>la tendance du retard</b> :
