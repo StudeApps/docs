@@ -150,15 +150,16 @@ Tu peux y accéder à partir du dernier onglet "Mon profil", en appuyant sur ⚙
 ## Définir ses capacités
 
 > Grâce à Stude, tu peux définir tes capacités au cours de la semaine, parce que tu n'as pas forcément le temps de travailler 150 pages par jour, voire de travailler tout court certains jours 💤
-<br/>En allant dans les paramètres de Stude, tu auras accès à un tableau représentant les différents jours de la semaine.
-<div style='display: flex; justify-content: space-evenly; flex-direction: row;'>
-    <img src="./pictures/weeksettings.jpg" style="width: 300px; justify-self: center;"/>
-    <a style='color: grey; width: 200px; text-align: justify;'>
-        À chaque jour de la semaine est associé un objectif de pages à réviser. Mais ce n'est pas tout, tu peux aussi choisir quel type de révisions tu souhaiterais faire en priorité : rattraper ton retard, voir des chapitres à jour, ou encore découvrir de nouveaux chapitres en file d'attente !
-        <br/>Tu peux activer / désactiver chacune des boîtes associées en appuyant dessus, ou encore changer l'ordre de priorité en glissant / déposant ces dernières.
-    </a>
-</div>
-<br/><br/>
+><br/>En allant dans les paramètres de Stude, tu auras accès à un tableau représentant les différents jours de la semaine.
+><div style='display: flex; justify-content: space-evenly; flex-direction: row;'>
+>    <img src="./pictures/weeksettings.jpg" style="width: 300px; justify-self: center;"/>
+></div>
+><br/>
+>    <a style='color: grey; width: 50%; text-align: center;'>
+>        À chaque jour de la semaine est associé un objectif de pages à réviser. Mais ce n'est pas tout, tu peux aussi choisir quel type de révisions tu souhaiterais >faire en priorité : rattraper ton retard, voir des chapitres à jour, ou encore découvrir de nouveaux chapitres en file d'attente !
+>        <br/>Tu peux activer / désactiver chacune des boîtes associées en appuyant dessus, ou encore changer l'ordre de priorité en glissant / déposant ces dernières.
+>    </a>
+
 
 # Prendre une pause / modifier ses objectifs
 
