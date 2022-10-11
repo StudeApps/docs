@@ -156,7 +156,7 @@ Tu peux y accéder à partir du dernier onglet "Mon profil", en appuyant sur ⚙
 ></div>
 ><br/>
 >    <a style='color: grey; width: 50%; text-align: center;'>
->        À chaque jour de la semaine est associé un objectif de pages à réviser. Mais ce n'est pas tout, tu peux aussi choisir quel type de révisions tu souhaiterais >faire en priorité : rattraper ton retard, voir des chapitres à jour, ou encore découvrir de nouveaux chapitres en file d'attente !
+>        À chaque jour de la semaine est associé un objectif de pages à réviser. Mais ce n'est pas tout, tu peux aussi choisir quel type de révisions tu souhaiterais faire en priorité : rattraper ton retard, voir des chapitres à jour, ou encore découvrir de nouveaux chapitres en file d'attente !
 >        <br/>Tu peux activer / désactiver chacune des boîtes associées en appuyant dessus, ou encore changer l'ordre de priorité en glissant / déposant ces dernières.
 >    </a>
 
